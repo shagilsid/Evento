@@ -531,12 +531,7 @@ ul.major-icons {
 			
 			
 		}
-		.row.\31 50\25 > *:hover {
-			border:solid;
-			border-width:2px;
-			border-color:#0168b3;
-		}
-
+		
 		.row.\31 50\25 {
 			margin: 0 0 -1px -3em;
 		}
